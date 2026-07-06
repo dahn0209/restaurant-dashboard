@@ -145,7 +145,7 @@ export default function App() {
 
           <div className="footer-note">
             Data source: live MySQL — restaurant / server / customer / meal_type /
-            payment_method / server_assignment / visit. Generated for CS5200 Practicum I, Part H.
+            payment_method / server_assignment 
           </div>
         </>
       )}
